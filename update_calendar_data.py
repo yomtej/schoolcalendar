@@ -45,14 +45,33 @@ def get_weather_forecast(date_obj):
         "description": random.choice(descriptions)
     }
 
-def get_pickup_time(child_name, day_of_week, has_after_school_club):
-    """Get the pickup time for a child based on their schedule."""
+def get_pickup_time(child_name, day_of_week, has_after_school_club, leo_pickup_override=None):
+    """Get the pickup time for a child based on their schedule.
+    
+    Args:
+        child_name: Name of the child (Leo or Novah)
+        day_of_week: Day of the week (1=Monday, 7=Sunday)
+        has_after_school_club: Whether the child has an after-school club
+        leo_pickup_override: Optional override for Leo's pickup time (used for Novah sync)
+    
+    Returns:
+        Pickup time as a string
+    """
     if child_name == "Leo":
         if has_after_school_club:
             return "5:30 PM"
         return "3:40 PM"
     elif child_name == "Novah":
-        return "3:45 PM"
+        # Novah's pickup time matches Leo's by default
+        # This can be overridden when explicitly mentioned in emails
+        if leo_pickup_override:
+            return leo_pickup_override
+        # If no override, use Leo's pickup time (which is passed as leo_pickup_override)
+        # For now, we'll calculate Leo's time here to sync
+        leo_has_club = has_after_school_club  # This will be Leo's club status
+        if leo_has_club:
+            return "5:30 PM"
+        return "3:40 PM"
     return "3:30 PM"  # Default
 
 def get_gate(child_name):
@@ -481,7 +500,7 @@ def create_json_structure():
                 "Novah": {
                     "year": "Early Years",
                     **get_uniform("Novah", current_date.weekday() + 1),
-                    "pickup": get_pickup_time("Novah", current_date.weekday() + 1, False),
+                    "pickup": get_pickup_time("Novah", current_date.weekday() + 1, leo_has_club_today),
                     "gate": get_gate("Novah")
                 }
             }
@@ -499,7 +518,7 @@ def create_json_structure():
                 "Novah": {
                     "year": "Early Years",
                     **get_uniform("Novah", tomorrow_date.weekday() + 1),
-                    "pickup": get_pickup_time("Novah", tomorrow_date.weekday() + 1, False),
+                    "pickup": get_pickup_time("Novah", tomorrow_date.weekday() + 1, leo_has_club_tomorrow),
                     "gate": get_gate("Novah")
                 }
             }
