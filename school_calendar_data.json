@@ -1,0 +1,207 @@
+{
+  "meta": {
+    "generated": "2025-10-06T12:00:00.000Z",
+    "version": "1.0"
+  },
+  "schoolInfo": {
+    "name": "Hampstead Hill School",
+    "children": [
+      {
+        "name": "Leo",
+        "year": "Year 2",
+        "class": "Poplar"
+      },
+      {
+        "name": "Novah",
+        "year": "Early Years",
+        "class": "Butterflies"
+      }
+    ]
+  },
+  "today": {
+    "date": "Monday, October 6",
+    "year": 2025,
+    "weather": {
+      "temp": "15°C",
+      "description": "Slightly chilly - bring a jacket."
+    },
+    "children": {
+      "Leo": {
+        "year": "Year 2",
+        "uniform": "School Uniform",
+        "uniformType": "Uniform",
+        "pickup": "5:30 PM",
+        "gate": "West Gate"
+      },
+      "Novah": {
+        "year": "Early Years",
+        "uniform": "School Uniform",
+        "uniformType": "Uniform",
+        "pickup": "3:45 PM",
+        "gate": "Meadow Gate"
+      }
+    }
+  },
+  "tomorrow": {
+    "date": "Tuesday, October 7",
+    "weather": {
+      "temp": "16°C",
+      "description": "Pleasant day - normal layers should be fine. Light jacket optional."
+    },
+    "children": {
+      "Leo": {
+        "year": "Year 2",
+        "uniform": "Sports Wear",
+        "uniformType": "Sports",
+        "pickup": "5:30 PM",
+        "gate": "West Gate"
+      },
+      "Novah": {
+        "year": "Early Years",
+        "uniform": "School Uniform",
+        "uniformType": "Uniform",
+        "pickup": "3:45 PM",
+        "gate": "Meadow Gate"
+      }
+    }
+  },
+  "events": [
+    {
+      "date": 3,
+      "month": 10,
+      "year": 2025,
+      "title": "Poplar Class Assembly",
+      "time": "9:00-9:30am",
+      "description": "Year 2 Poplar Class Assembly. Parents welcome to attend.",
+      "location": "School Hall",
+      "type": "Assembly",
+      "children": ["Leo"]
+    },
+    {
+      "date": 4,
+      "month": 10,
+      "year": 2025,
+      "title": "HHS 75th Birthday",
+      "time": "All Day",
+      "description": "Celebrating Hampstead Hill School's 75th birthday.",
+      "location": "School",
+      "type": "Celebration",
+      "children": ["Leo", "Novah"]
+    },
+    {
+      "date": 7,
+      "month": 10,
+      "year": 2025,
+      "title": "Swimming Lessons Begin",
+      "time": "10:30-11:30am",
+      "description": "First swimming lesson. Bring swimsuit, towel, and swimming cap.",
+      "location": "Local Pool",
+      "type": "Activity",
+      "children": ["Leo"]
+    }
+  ],
+  "activities": {
+    "Leo": [
+      {
+        "day": "Monday",
+        "activities": [
+          {
+            "title": "Swimming",
+            "time": "10:30-11:30",
+            "teacher": "Mr. Roberts"
+          },
+          {
+            "title": "Chess Club",
+            "time": "15:45-16:45",
+            "teacher": "Mr. Johnson"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "activities": [
+          {
+            "title": "Zumba",
+            "time": "10:30-11:30",
+            "teacher": "PE Staff"
+          },
+          {
+            "title": "Gymnastics",
+            "time": "15:45-16:45",
+            "teacher": "Miss Sarah"
+          }
+        ]
+      }
+    ],
+    "Novah": [
+      {
+        "day": "Monday",
+        "activities": []
+      },
+      {
+        "day": "Tuesday",
+        "activities": [
+          {
+            "title": "Music & Movement",
+            "time": "10:30-11:00",
+            "teacher": "Mrs. Davies"
+          }
+        ]
+      }
+    ]
+  },
+  "notices": [
+    {
+      "id": "science-museum-trip",
+      "title": "Science Museum Trip Permission",
+      "priority": "high",
+      "deadline": "October 10th",
+      "description": "Permission slip needed for Science Museum trip on October 15th.",
+      "children": ["Leo"],
+      "actionButton": {
+        "text": "Complete Form",
+        "url": "https://forms.hampsteadhill.school/permission"
+      }
+    },
+    {
+      "id": "parent-consultation-booking",
+      "title": "Parent Consultation Booking",
+      "priority": "high",
+      "deadline": "October 5th",
+      "description": "Book your 15-minute consultation slot with your child's teacher for October 10th or 11th.",
+      "children": ["Leo", "Novah"],
+      "actionButton": {
+        "text": "Book Now",
+        "url": "https://booking.hampsteadhill.school/consultations"
+      }
+    }
+  ],
+  "calendar": {
+    "month": 10,
+    "year": 2025,
+    "days": [
+      {
+        "date": 1,
+        "events": []
+      },
+      {
+        "date": 2,
+        "events": []
+      },
+      {
+        "date": 3,
+        "events": [
+          {
+            "title": "Poplar Class Assembly",
+            "children": ["Leo"]
+          }
+        ]
+      }
+    ]
+  },
+  "settings": {
+    "notificationCount": 2,
+    "currentTab": "Today",
+    "filterSetting": "All"
+  }
+}
