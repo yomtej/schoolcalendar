@@ -34,4 +34,4 @@ To use this data in your application:
 
 ## Last Updated
 
-The data was last updated on: October 6, 2025 at 12:00 PM
+The data was last updated on: October 06, 2025 at 02:38 PM

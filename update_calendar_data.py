@@ -8,6 +8,7 @@ import datetime
 from datetime import date, timedelta
 import random
 import subprocess
+import re
 
 # Configure logging
 logging.basicConfig(
