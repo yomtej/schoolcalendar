@@ -219,13 +219,101 @@ def get_events():
     """Get all events for the current term."""
     events = [
         {
+            "date": 1,
+            "month": 9,
+            "year": 2025,
+            "title": "Parent Registration Opens for 7+ Schools",
+            "time": "All Day",
+            "description": "Parent registration opens for 7+ schools.",
+            "location": "School",
+            "type": "Special Day",
+            "children": ["Leo", "Novah"]
+        },
+        {
+            "date": 2,
+            "month": 9,
+            "year": 2025,
+            "title": "Year 2 Online 7+ Preparation – 2nd Round Group Tasks and Interview Practice",
+            "time": "All Day",
+            "description": "Year 2 students participate in 2nd round group tasks and interview practice for 7+ preparation.",
+            "location": "School",
+            "type": "Academic",
+            "children": ["Leo"]
+        },
+        {
+            "date": 3,
+            "month": 9,
+            "year": 2025,
+            "title": "Autumn Term Starts",
+            "time": "All Day",
+            "description": "Start of the Autumn term for the school year 2025-2026.",
+            "location": "School",
+            "type": "Term End",
+            "children": ["Leo", "Novah"]
+        },
+        {
+            "date": 8,
+            "month": 9,
+            "year": 2025,
+            "title": "PE and Clubs Begin",
+            "time": "All Day",
+            "description": "PE and clubs start for the term.",
+            "location": "School",
+            "type": "Activity",
+            "children": ["Leo", "Novah"]
+        },
+        {
+            "date": 10,
+            "month": 9,
+            "year": 2025,
+            "title": "Whole School Parents’ Social Tea and Coffee Morning – Guest Speaker: Online Safety",
+            "time": "8:00am - 9:00am",
+            "description": "Parents' social tea and coffee morning with a guest speaker on online safety.",
+            "location": "School",
+            "type": "Special Day",
+            "children": ["Leo", "Novah"]
+        },
+        {
+            "date": 12,
+            "month": 9,
+            "year": 2025,
+            "title": "Maple Class Assembly",
+            "time": "9:00am - 9:30am",
+            "description": "Year 2 Maple Class assembly. Parents invited to attend.",
+            "location": "School",
+            "type": "Assembly",
+            "children": ["Leo"]
+        },
+        {
+            "date": 19,
+            "month": 9,
+            "year": 2025,
+            "title": "Chestnut Class Assembly",
+            "time": "9:00am - 9:30am",
+            "description": "Year 2 Chestnut Class assembly. Parents invited to attend.",
+            "location": "School",
+            "type": "Assembly",
+            "children": ["Leo"]
+        },
+        {
+            "date": 26,
+            "month": 9,
+            "year": 2025,
+            "title": "Pine Class Assembly",
+            "time": "9:00am - 9:30am",
+            "description": "Year 2 Pine Class assembly. Parents invited to attend.",
+            "location": "School",
+            "type": "Assembly",
+            "children": ["Leo"]
+        },
+        {
             "date": 3,
             "month": 10,
             "year": 2025,
             "title": "Poplar Class Assembly",
-            "time": "9:00-9:30am",
-            "description": "Year 2 Poplar Class Assembly. Parents welcome to attend.",
-            "location": "School Hall",
+            "time": "9:00am - 9:30am",
+            "description": "Year 2 Poplar Class assembly. Parents invited to attend.",
+            "location": "School",
             "type": "Assembly",
             "children": ["Leo"]
         },
@@ -235,21 +323,10 @@ def get_events():
             "year": 2025,
             "title": "HHS 75th Birthday",
             "time": "All Day",
-            "description": "Celebrating Hampstead Hill School's 75th birthday.",
+            "description": "Celebration of Hampstead Hill School's 75th birthday.",
             "location": "School",
             "type": "Celebration",
             "children": ["Leo", "Novah"]
-        },
-        {
-            "date": 7,
-            "month": 10,
-            "year": 2025,
-            "title": "Swimming Lessons Begin",
-            "time": "10:30-11:30am",
-            "description": "First swimming lesson. Bring swimsuit, towel, and swimming cap.",
-            "location": "Local Pool",
-            "type": "Activity",
-            "children": ["Leo"]
         },
         {
             "date": 10,
@@ -257,51 +334,40 @@ def get_events():
             "year": 2025,
             "title": "Red, White and Blue Day",
             "time": "All Day",
-            "description": "Special themed day. Children can wear red, white, and blue clothes.",
+            "description": "Special day celebrating red, white and blue colors.",
             "location": "School",
             "type": "Special Day",
             "children": ["Leo", "Novah"]
         },
         {
-            "date": 10,
+            "date": 13,
             "month": 10,
             "year": 2025,
-            "title": "Parent Consultations Day 1",
-            "time": "15:30-19:00",
-            "description": "15-minute consultation slots with teachers.",
-            "location": "School Classrooms",
-            "type": "Academic",
-            "children": ["Leo", "Novah"]
-        },
-        {
-            "date": 11,
-            "month": 10,
-            "year": 2025,
-            "title": "Parent Consultations Day 2",
-            "time": "9:00-12:00",
-            "description": "15-minute consultation slots with teachers.",
-            "location": "School Classrooms",
-            "type": "Academic",
+            "title": "Parent Teacher Meetings Start",
+            "time": "All Day",
+            "description": "Start of Parent Teacher Meetings.",
+            "location": "School",
+            "type": "Activity",
             "children": ["Leo", "Novah"]
         },
         {
             "date": 15,
             "month": 10,
             "year": 2025,
-            "title": "Science Museum Trip",
-            "time": "9:30am-3:00pm",
-            "description": "School trip to Science Museum. Packed lunch required.",
-            "location": "Science Museum",
-            "type": "School Trip",
-            "children": ["Leo"]
+            "title": "Parent Teacher Meetings End",
+            "time": "All Day",
+            "description": "End of Parent Teacher Meetings.",
+            "location": "School",
+            "type": "Activity",
+            "children": ["Leo", "Novah"]
         },
         {
             "date": 17,
             "month": 10,
             "year": 2025,
-            "title": "PD Day - School Closed",
+            "title": "PD Day – School Closed",
             "time": "All Day",
-            "description": "School closed for Professional Development Day.",
+            "description": "Professional Development Day, school closed.",
             "location": "School",
             "type": "Closure",
             "children": ["Leo", "Novah"]
@@ -310,9 +376,9 @@ def get_events():
             "date": 20,
             "month": 10,
             "year": 2025,
-            "title": "Half Term Begins",
+            "title": "Half Term Start",
             "time": "All Day",
-            "description": "School closed for half term holiday.",
+            "description": "Start of half term holiday.",
             "location": "School",
             "type": "Holiday",
             "children": ["Leo", "Novah"]
@@ -321,9 +387,9 @@ def get_events():
             "date": 24,
             "month": 10,
             "year": 2025,
-            "title": "Half Term Ends",
+            "title": "Half Term End",
             "time": "All Day",
-            "description": "Last day of half term holiday. School resumes on Monday, October 27th.",
+            "description": "End of half term holiday.",
             "location": "School",
             "type": "Holiday",
             "children": ["Leo", "Novah"]
@@ -333,9 +399,9 @@ def get_events():
             "month": 10,
             "year": 2025,
             "title": "Black History Month Exhibition",
-            "time": "During School",
-            "description": "Exhibition showcasing student work from Black History Month activities.",
-            "location": "School Hall",
+            "time": "All Day",
+            "description": "Exhibition celebrating Black History Month.",
+            "location": "School",
             "type": "Exhibition",
             "children": ["Leo", "Novah"]
         },
@@ -343,9 +409,9 @@ def get_events():
             "date": 10,
             "month": 11,
             "year": 2025,
-            "title": "Anti-Bullying Week Begins",
+            "title": "Anti-Bullying Week Start",
             "time": "All Day",
-            "description": "Anti-Bullying Week runs from November 10th to 14th.",
+            "description": "Start of Anti-Bullying Week.",
             "location": "School",
             "type": "Special Week",
             "children": ["Leo", "Novah"]
@@ -354,9 +420,9 @@ def get_events():
             "date": 10,
             "month": 11,
             "year": 2025,
-            "title": "Odd Socks Day",
+            "title": "Odd Sock Day",
             "time": "All Day",
-            "description": "Wear odd socks to celebrate uniqueness and raise awareness for Anti-Bullying Week.",
+            "description": "Odd Sock Day to raise awareness for Anti-Bullying Week.",
             "location": "School",
             "type": "Special Day",
             "children": ["Leo", "Novah"]
@@ -365,9 +431,9 @@ def get_events():
             "date": 14,
             "month": 11,
             "year": 2025,
-            "title": "Anti-Bullying Week Ends",
+            "title": "Anti-Bullying Week End",
             "time": "All Day",
-            "description": "Last day of Anti-Bullying Week.",
+            "description": "End of Anti-Bullying Week.",
             "location": "School",
             "type": "Special Week",
             "children": ["Leo", "Novah"]
@@ -377,23 +443,24 @@ def get_events():
             "month": 12,
             "year": 2025,
             "title": "Christmas Party",
-            "time": "During School",
-            "description": "School Christmas party celebration.",
+            "time": "All Day",
+            "description": "Year 2 Christmas Party.",
             "location": "School",
             "type": "Celebration",
-            "children": ["Leo", "Novah"]
+            "children": ["Leo"]
         },
         {
             "date": 12,
             "month": 12,
             "year": 2025,
-            "title": "Last Day of Autumn Term",
+            "title": "Last Day of Term",
             "time": "All Day",
-            "description": "Last day of Autumn Term. School closes for Christmas holidays.",
+            "description": "Last day of the Autumn term.",
             "location": "School",
             "type": "Term End",
             "children": ["Leo", "Novah"]
         }
+    
     ]
     
     return events
