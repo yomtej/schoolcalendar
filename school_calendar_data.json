@@ -1,0 +1,630 @@
+{
+  "meta": {
+    "generated": "2025-10-06T13:04:08.704992",
+    "version": "1.0"
+  },
+  "schoolInfo": {
+    "name": "Hampstead Hill School",
+    "children": [
+      {
+        "name": "Leo",
+        "year": "Year 2",
+        "class": "Poplar"
+      },
+      {
+        "name": "Novah",
+        "year": "Early Years",
+        "class": "Butterflies"
+      }
+    ]
+  },
+  "today": {
+    "date": "Monday, October 6",
+    "year": 2025,
+    "weather": {
+      "temp": "12\u00b0C",
+      "description": "Rain expected - bring raincoat and umbrella."
+    },
+    "children": {
+      "Leo": {
+        "year": "Year 2",
+        "uniform": "School Uniform",
+        "uniformType": "Uniform",
+        "pickup": "5:30 PM",
+        "gate": "West Gate"
+      },
+      "Novah": {
+        "year": "Early Years",
+        "uniform": "School Uniform",
+        "uniformType": "Uniform",
+        "pickup": "3:45 PM",
+        "gate": "Meadow Gate"
+      }
+    }
+  },
+  "tomorrow": {
+    "date": "Tuesday, October 7",
+    "weather": {
+      "temp": "13\u00b0C",
+      "description": "Cloudy but dry - standard uniform is fine."
+    },
+    "children": {
+      "Leo": {
+        "year": "Year 2",
+        "uniform": "Sports Wear",
+        "uniformType": "Sports",
+        "pickup": "5:30 PM",
+        "gate": "West Gate"
+      },
+      "Novah": {
+        "year": "Early Years",
+        "uniform": "School Uniform",
+        "uniformType": "Uniform",
+        "pickup": "3:45 PM",
+        "gate": "Meadow Gate"
+      }
+    }
+  },
+  "events": [
+    {
+      "date": 3,
+      "month": 10,
+      "year": 2025,
+      "title": "Poplar Class Assembly",
+      "time": "9:00-9:30am",
+      "description": "Year 2 Poplar Class Assembly. Parents welcome to attend.",
+      "location": "School Hall",
+      "type": "Assembly",
+      "children": [
+        "Leo"
+      ]
+    },
+    {
+      "date": 4,
+      "month": 10,
+      "year": 2025,
+      "title": "HHS 75th Birthday",
+      "time": "All Day",
+      "description": "Celebrating Hampstead Hill School's 75th birthday.",
+      "location": "School",
+      "type": "Celebration",
+      "children": [
+        "Leo",
+        "Novah"
+      ]
+    },
+    {
+      "date": 7,
+      "month": 10,
+      "year": 2025,
+      "title": "Swimming Lessons Begin",
+      "time": "10:30-11:30am",
+      "description": "First swimming lesson. Bring swimsuit, towel, and swimming cap.",
+      "location": "Local Pool",
+      "type": "Activity",
+      "children": [
+        "Leo"
+      ]
+    },
+    {
+      "date": 10,
+      "month": 10,
+      "year": 2025,
+      "title": "Red, White and Blue Day",
+      "time": "All Day",
+      "description": "Special themed day. Children can wear red, white, and blue clothes.",
+      "location": "School",
+      "type": "Special Day",
+      "children": [
+        "Leo",
+        "Novah"
+      ]
+    },
+    {
+      "date": 10,
+      "month": 10,
+      "year": 2025,
+      "title": "Parent Consultations Day 1",
+      "time": "15:30-19:00",
+      "description": "15-minute consultation slots with teachers.",
+      "location": "School Classrooms",
+      "type": "Academic",
+      "children": [
+        "Leo",
+        "Novah"
+      ]
+    },
+    {
+      "date": 11,
+      "month": 10,
+      "year": 2025,
+      "title": "Parent Consultations Day 2",
+      "time": "9:00-12:00",
+      "description": "15-minute consultation slots with teachers.",
+      "location": "School Classrooms",
+      "type": "Academic",
+      "children": [
+        "Leo",
+        "Novah"
+      ]
+    },
+    {
+      "date": 15,
+      "month": 10,
+      "year": 2025,
+      "title": "Science Museum Trip",
+      "time": "9:30am-3:00pm",
+      "description": "School trip to Science Museum. Packed lunch required.",
+      "location": "Science Museum",
+      "type": "School Trip",
+      "children": [
+        "Leo"
+      ]
+    },
+    {
+      "date": 17,
+      "month": 10,
+      "year": 2025,
+      "title": "PD Day - School Closed",
+      "time": "All Day",
+      "description": "School closed for Professional Development Day.",
+      "location": "School",
+      "type": "Closure",
+      "children": [
+        "Leo",
+        "Novah"
+      ]
+    },
+    {
+      "date": 20,
+      "month": 10,
+      "year": 2025,
+      "title": "Half Term Begins",
+      "time": "All Day",
+      "description": "School closed for half term holiday.",
+      "location": "School",
+      "type": "Holiday",
+      "children": [
+        "Leo",
+        "Novah"
+      ]
+    },
+    {
+      "date": 24,
+      "month": 10,
+      "year": 2025,
+      "title": "Half Term Ends",
+      "time": "All Day",
+      "description": "Last day of half term holiday. School resumes on Monday, October 27th.",
+      "location": "School",
+      "type": "Holiday",
+      "children": [
+        "Leo",
+        "Novah"
+      ]
+    },
+    {
+      "date": 31,
+      "month": 10,
+      "year": 2025,
+      "title": "Black History Month Exhibition",
+      "time": "During School",
+      "description": "Exhibition showcasing student work from Black History Month activities.",
+      "location": "School Hall",
+      "type": "Exhibition",
+      "children": [
+        "Leo",
+        "Novah"
+      ]
+    }
+  ],
+  "activities": {
+    "Leo": [
+      {
+        "day": "Monday",
+        "activities": [
+          {
+            "title": "Swimming",
+            "time": "10:30-11:30",
+            "teacher": "Mr. Roberts"
+          },
+          {
+            "title": "Chess Club",
+            "time": "15:45-16:45",
+            "teacher": "Mr. Johnson"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "activities": [
+          {
+            "title": "Zumba",
+            "time": "10:30-11:30",
+            "teacher": "PE Staff"
+          },
+          {
+            "title": "Gymnastics",
+            "time": "15:45-16:45",
+            "teacher": "Miss Sarah"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "activities": [
+          {
+            "title": "PE",
+            "time": "10:30-11:30",
+            "teacher": "PE Staff"
+          },
+          {
+            "title": "STEM Club",
+            "time": "15:45-16:45",
+            "teacher": "Mrs. Chen"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "activities": [
+          {
+            "title": "Drama Club",
+            "time": "15:45-16:45",
+            "teacher": "Ms. Williams"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "activities": []
+      }
+    ],
+    "Novah": [
+      {
+        "day": "Monday",
+        "activities": []
+      },
+      {
+        "day": "Tuesday",
+        "activities": [
+          {
+            "title": "Music & Movement",
+            "time": "10:30-11:00",
+            "teacher": "Mrs. Davies"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "activities": []
+      },
+      {
+        "day": "Thursday",
+        "activities": [
+          {
+            "title": "Forest School",
+            "time": "9:00-11:00",
+            "teacher": "Miss Emma"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "activities": []
+      }
+    ]
+  },
+  "notices": [
+    {
+      "id": "science-museum-trip",
+      "title": "Science Museum Trip Permission",
+      "priority": "high",
+      "deadline": "October 10th",
+      "description": "Permission slip needed for Science Museum trip on October 15th.",
+      "children": [
+        "Leo"
+      ],
+      "actionButton": {
+        "text": "Complete Form",
+        "url": "https://forms.hampsteadhill.school/permission"
+      }
+    },
+    {
+      "id": "parent-consultation-booking",
+      "title": "Parent Consultation Booking",
+      "priority": "high",
+      "deadline": "October 5th",
+      "description": "Book your 15-minute consultation slot with your child's teacher for October 10th or 11th.",
+      "children": [
+        "Leo",
+        "Novah"
+      ],
+      "actionButton": {
+        "text": "Book Now",
+        "url": "https://booking.hampsteadhill.school/consultations"
+      }
+    },
+    {
+      "id": "half-term-reminder",
+      "title": "Half Term Holiday",
+      "priority": "medium",
+      "deadline": "October 20th",
+      "description": "School will be closed for half term from October 20th to October 24th. School resumes on October 27th.",
+      "children": [
+        "Leo",
+        "Novah"
+      ]
+    },
+    {
+      "id": "swimming-kit-reminder",
+      "title": "Swimming Kit Reminder",
+      "priority": "medium",
+      "deadline": "October 7th",
+      "description": "Remember to bring swimming kit every Monday: swimsuit, towel, and swimming cap.",
+      "children": [
+        "Leo"
+      ]
+    },
+    {
+      "id": "school-closure",
+      "title": "School Closed - Staff Training Day",
+      "priority": "high",
+      "deadline": "October 17th",
+      "description": "School will be closed on Friday, October 17th for staff training.",
+      "children": [
+        "Leo",
+        "Novah"
+      ]
+    },
+    {
+      "id": "class-assembly",
+      "title": "Poplar Class Assembly",
+      "priority": "high",
+      "deadline": "October 3rd",
+      "description": "Poplar Class Assembly on Friday, October 3rd from 9:00am to 9:30am. Parents welcome to attend.",
+      "children": [
+        "Leo"
+      ]
+    },
+    {
+      "id": "pe-days",
+      "title": "PE & Zumba Days",
+      "priority": "medium",
+      "deadline": "Ongoing",
+      "description": "PE takes place on Wednesdays and Zumba on Tuesdays. Please ensure your child has appropriate PE kit on these days.",
+      "children": [
+        "Leo"
+      ]
+    },
+    {
+      "id": "forest-school-reschedule",
+      "title": "Forest School Schedule Change",
+      "priority": "medium",
+      "deadline": "Next Week",
+      "description": "Forest School moved to Thursday. Bring outdoor clothing.",
+      "children": [
+        "Novah"
+      ]
+    }
+  ],
+  "calendar": {
+    "month": 10,
+    "year": 2025,
+    "days": [
+      {
+        "date": 1,
+        "events": []
+      },
+      {
+        "date": 2,
+        "events": []
+      },
+      {
+        "date": 3,
+        "events": [
+          {
+            "title": "Poplar Class Assembly",
+            "children": [
+              "Leo"
+            ]
+          }
+        ]
+      },
+      {
+        "date": 4,
+        "events": [
+          {
+            "title": "HHS 75th Birthday",
+            "children": [
+              "Leo",
+              "Novah"
+            ]
+          }
+        ]
+      },
+      {
+        "date": 5,
+        "events": []
+      },
+      {
+        "date": 6,
+        "events": []
+      },
+      {
+        "date": 7,
+        "events": [
+          {
+            "title": "Swimming Lessons Begin",
+            "children": [
+              "Leo"
+            ]
+          }
+        ]
+      },
+      {
+        "date": 8,
+        "events": []
+      },
+      {
+        "date": 9,
+        "events": []
+      },
+      {
+        "date": 10,
+        "events": [
+          {
+            "title": "Red, White and Blue Day",
+            "children": [
+              "Leo",
+              "Novah"
+            ]
+          },
+          {
+            "title": "Parent Consultations Day 1",
+            "children": [
+              "Leo",
+              "Novah"
+            ]
+          }
+        ]
+      },
+      {
+        "date": 11,
+        "events": [
+          {
+            "title": "Parent Consultations Day 2",
+            "children": [
+              "Leo",
+              "Novah"
+            ]
+          }
+        ]
+      },
+      {
+        "date": 12,
+        "events": []
+      },
+      {
+        "date": 13,
+        "events": []
+      },
+      {
+        "date": 14,
+        "events": []
+      },
+      {
+        "date": 15,
+        "events": [
+          {
+            "title": "Science Museum Trip",
+            "children": [
+              "Leo"
+            ]
+          }
+        ]
+      },
+      {
+        "date": 16,
+        "events": []
+      },
+      {
+        "date": 17,
+        "events": [
+          {
+            "title": "PD Day - School Closed",
+            "children": [
+              "Leo",
+              "Novah"
+            ]
+          }
+        ]
+      },
+      {
+        "date": 18,
+        "events": []
+      },
+      {
+        "date": 19,
+        "events": []
+      },
+      {
+        "date": 20,
+        "events": [
+          {
+            "title": "Half Term Begins",
+            "children": [
+              "Leo",
+              "Novah"
+            ]
+          }
+        ]
+      },
+      {
+        "date": 21,
+        "events": []
+      },
+      {
+        "date": 22,
+        "events": []
+      },
+      {
+        "date": 23,
+        "events": []
+      },
+      {
+        "date": 24,
+        "events": [
+          {
+            "title": "Half Term Ends",
+            "children": [
+              "Leo",
+              "Novah"
+            ]
+          }
+        ]
+      },
+      {
+        "date": 25,
+        "events": []
+      },
+      {
+        "date": 26,
+        "events": []
+      },
+      {
+        "date": 27,
+        "events": []
+      },
+      {
+        "date": 28,
+        "events": []
+      },
+      {
+        "date": 29,
+        "events": []
+      },
+      {
+        "date": 30,
+        "events": []
+      },
+      {
+        "date": 31,
+        "events": [
+          {
+            "title": "Black History Month Exhibition",
+            "children": [
+              "Leo",
+              "Novah"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "settings": {
+    "notificationCount": 8,
+    "currentTab": "Today",
+    "filterSetting": "All"
+  }
+}
