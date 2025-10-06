@@ -85,23 +85,15 @@ def get_gate(child_name):
 
 def get_uniform(child_name, day_of_week):
     """Get the uniform type for a child based on the day of the week."""
-    if child_name == "Leo":
-        # Tuesday is Zumba day, Wednesday is PE day
-        if day_of_week == 1:  # Monday - Swimming
-            return {"uniform": "School Uniform", "uniformType": "Uniform"}
-        elif day_of_week == 2:  # Tuesday - Zumba
-            return {"uniform": "Sports Wear", "uniformType": "Sports"}
-        elif day_of_week == 3:  # Wednesday - PE
-            return {"uniform": "Sports Wear", "uniformType": "Sports"}
-        else:
-            return {"uniform": "School Uniform", "uniformType": "Uniform"}
-    elif child_name == "Novah":
-        # Forest School on Thursday
-        if day_of_week == 4:  # Thursday
-            return {"uniform": "Forest School Kit", "uniformType": "Forest"}
-        else:
-            return {"uniform": "School Uniform", "uniformType": "Uniform"}
-    return {"uniform": "School Uniform", "uniformType": "Uniform"}  # Default
+    # Both Leo and Novah have the same uniform schedule
+    if day_of_week == 1:  # Monday - Swimming
+        return {"uniform": "School Uniform", "uniformType": "Uniform"}
+    elif day_of_week == 2:  # Tuesday - Zumba/PE
+        return {"uniform": "Sports Wear", "uniformType": "Sports"}
+    elif day_of_week == 3:  # Wednesday - PE
+        return {"uniform": "Sports Wear", "uniformType": "Sports"}
+    else:
+        return {"uniform": "School Uniform", "uniformType": "Uniform"}
 
 def has_after_school_club(child_name, day_of_week):
     """Check if a child has an after-school club on a given day."""

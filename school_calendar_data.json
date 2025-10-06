@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2025-10-06T16:06:35.031369",
+    "generated": "2025-10-06T16:45:17.301466",
     "version": "1.0"
   },
   "schoolInfo": {
@@ -22,8 +22,8 @@
     "date": "Monday, October 6",
     "year": 2025,
     "weather": {
-      "temp": "12\u00b0C",
-      "description": "Slightly chilly - bring a jacket."
+      "temp": "16\u00b0C",
+      "description": "Cloudy but dry - standard uniform is fine."
     },
     "children": {
       "Leo": {
@@ -45,8 +45,8 @@
   "tomorrow": {
     "date": "Tuesday, October 7",
     "weather": {
-      "temp": "16\u00b0C",
-      "description": "Cloudy but dry - standard uniform is fine."
+      "temp": "13\u00b0C",
+      "description": "Slightly chilly - bring a jacket."
     },
     "children": {
       "Leo": {
@@ -58,8 +58,8 @@
       },
       "Novah": {
         "year": "Early Years",
-        "uniform": "School Uniform",
-        "uniformType": "Uniform",
+        "uniform": "Sports Wear",
+        "uniformType": "Sports",
         "pickup": "5:30 PM",
         "gate": "Meadow Gate"
       }
