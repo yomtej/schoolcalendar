@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2025-10-06T14:38:50.299385",
+    "generated": "2025-10-06T14:45:40.666120",
     "version": "1.0"
   },
   "schoolInfo": {
@@ -22,8 +22,8 @@
     "date": "Monday, October 6",
     "year": 2025,
     "weather": {
-      "temp": "17\u00b0C",
-      "description": "Slightly chilly - bring a jacket."
+      "temp": "13\u00b0C",
+      "description": "Warm day expected - light clothing appropriate."
     },
     "children": {
       "Leo": {
@@ -37,7 +37,7 @@
         "year": "Early Years",
         "uniform": "School Uniform",
         "uniformType": "Uniform",
-        "pickup": "5:30 PM",
+        "pickup": "3:45 PM",
         "gate": "Meadow Gate"
       }
     }
@@ -45,7 +45,7 @@
   "tomorrow": {
     "date": "Tuesday, October 7",
     "weather": {
-      "temp": "18\u00b0C",
+      "temp": "16\u00b0C",
       "description": "Cloudy but dry - standard uniform is fine."
     },
     "children": {
@@ -60,7 +60,7 @@
         "year": "Early Years",
         "uniform": "School Uniform",
         "uniformType": "Uniform",
-        "pickup": "5:30 PM",
+        "pickup": "3:45 PM",
         "gate": "Meadow Gate"
       }
     }
