@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2025-10-06T14:38:50.299385",
+    "generated": "2025-10-06T14:52:25.892154",
     "version": "1.0"
   },
   "schoolInfo": {
@@ -22,8 +22,8 @@
     "date": "Monday, October 6",
     "year": 2025,
     "weather": {
-      "temp": "17\u00b0C",
-      "description": "Slightly chilly - bring a jacket."
+      "temp": "12\u00b0C",
+      "description": "Pleasant day - normal layers should be fine. Light jacket optional."
     },
     "children": {
       "Leo": {
@@ -46,7 +46,7 @@
     "date": "Tuesday, October 7",
     "weather": {
       "temp": "18\u00b0C",
-      "description": "Cloudy but dry - standard uniform is fine."
+      "description": "Warm day expected - light clothing appropriate."
     },
     "children": {
       "Leo": {
@@ -212,6 +212,76 @@
       "description": "Exhibition showcasing student work from Black History Month activities.",
       "location": "School Hall",
       "type": "Exhibition",
+      "children": [
+        "Leo",
+        "Novah"
+      ]
+    },
+    {
+      "date": 10,
+      "month": 11,
+      "year": 2025,
+      "title": "Anti-Bullying Week Begins",
+      "time": "All Day",
+      "description": "Anti-Bullying Week runs from November 10th to 14th.",
+      "location": "School",
+      "type": "Special Week",
+      "children": [
+        "Leo",
+        "Novah"
+      ]
+    },
+    {
+      "date": 10,
+      "month": 11,
+      "year": 2025,
+      "title": "Odd Socks Day",
+      "time": "All Day",
+      "description": "Wear odd socks to celebrate uniqueness and raise awareness for Anti-Bullying Week.",
+      "location": "School",
+      "type": "Special Day",
+      "children": [
+        "Leo",
+        "Novah"
+      ]
+    },
+    {
+      "date": 14,
+      "month": 11,
+      "year": 2025,
+      "title": "Anti-Bullying Week Ends",
+      "time": "All Day",
+      "description": "Last day of Anti-Bullying Week.",
+      "location": "School",
+      "type": "Special Week",
+      "children": [
+        "Leo",
+        "Novah"
+      ]
+    },
+    {
+      "date": 12,
+      "month": 12,
+      "year": 2025,
+      "title": "Christmas Party",
+      "time": "During School",
+      "description": "School Christmas party celebration.",
+      "location": "School",
+      "type": "Celebration",
+      "children": [
+        "Leo",
+        "Novah"
+      ]
+    },
+    {
+      "date": 12,
+      "month": 12,
+      "year": 2025,
+      "title": "Last Day of Autumn Term",
+      "time": "All Day",
+      "description": "Last day of Autumn Term. School closes for Christmas holidays.",
+      "location": "School",
+      "type": "Term End",
       "children": [
         "Leo",
         "Novah"

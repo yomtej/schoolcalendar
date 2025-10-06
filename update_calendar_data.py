@@ -338,6 +338,61 @@ def get_events():
             "location": "School Hall",
             "type": "Exhibition",
             "children": ["Leo", "Novah"]
+        },
+        {
+            "date": 10,
+            "month": 11,
+            "year": 2025,
+            "title": "Anti-Bullying Week Begins",
+            "time": "All Day",
+            "description": "Anti-Bullying Week runs from November 10th to 14th.",
+            "location": "School",
+            "type": "Special Week",
+            "children": ["Leo", "Novah"]
+        },
+        {
+            "date": 10,
+            "month": 11,
+            "year": 2025,
+            "title": "Odd Socks Day",
+            "time": "All Day",
+            "description": "Wear odd socks to celebrate uniqueness and raise awareness for Anti-Bullying Week.",
+            "location": "School",
+            "type": "Special Day",
+            "children": ["Leo", "Novah"]
+        },
+        {
+            "date": 14,
+            "month": 11,
+            "year": 2025,
+            "title": "Anti-Bullying Week Ends",
+            "time": "All Day",
+            "description": "Last day of Anti-Bullying Week.",
+            "location": "School",
+            "type": "Special Week",
+            "children": ["Leo", "Novah"]
+        },
+        {
+            "date": 12,
+            "month": 12,
+            "year": 2025,
+            "title": "Christmas Party",
+            "time": "During School",
+            "description": "School Christmas party celebration.",
+            "location": "School",
+            "type": "Celebration",
+            "children": ["Leo", "Novah"]
+        },
+        {
+            "date": 12,
+            "month": 12,
+            "year": 2025,
+            "title": "Last Day of Autumn Term",
+            "time": "All Day",
+            "description": "Last day of Autumn Term. School closes for Christmas holidays.",
+            "location": "School",
+            "type": "Term End",
+            "children": ["Leo", "Novah"]
         }
     ]
     
