@@ -637,7 +637,7 @@ def commit_and_push_changes():
         subprocess.run(["git", "commit", "-m", f"Update calendar data - {formatted_date}"], check=True)
         
         # Push the changes
-        subprocess.run(["git", "push"], check=True)
+        subprocess.run(["git", "push", "-u", "origin", "main"], check=True)
         
         logger.info(f"Successfully committed and pushed changes at {formatted_date}")
         return True
