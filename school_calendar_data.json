@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2025-10-07T11:19:36.227023",
+    "generated": "2025-10-07T13:05:25.940240",
     "version": "1.0"
   },
   "schoolInfo": {
@@ -22,8 +22,8 @@
     "date": "Tuesday, October 7",
     "year": 2025,
     "weather": {
-      "temp": "14\u00b0C",
-      "description": "Cloudy but dry - standard uniform is fine."
+      "temp": "12\u00b0C",
+      "description": "Slightly chilly - bring a jacket."
     },
     "children": {
       "Leo": {
@@ -45,8 +45,8 @@
   "tomorrow": {
     "date": "Wednesday, October 8",
     "weather": {
-      "temp": "17\u00b0C",
-      "description": "Pleasant day - normal layers should be fine. Light jacket optional."
+      "temp": "14\u00b0C",
+      "description": "Slightly chilly - bring a jacket."
     },
     "children": {
       "Leo": {
@@ -91,6 +91,19 @@
       "children": [
         "Leo",
         "Novah"
+      ]
+    },
+    {
+      "date": 7,
+      "month": 10,
+      "year": 2025,
+      "title": "Swimming Lessons Begin",
+      "time": "10:30-11:30am",
+      "description": "First swimming lesson. Bring swimsuit, towel, and swimming cap.",
+      "location": "Local Pool",
+      "type": "Activity",
+      "children": [
+        "Leo"
       ]
     },
     {
@@ -440,7 +453,14 @@
       },
       {
         "date": 7,
-        "events": []
+        "events": [
+          {
+            "title": "Swimming Lessons Begin",
+            "children": [
+              "Leo"
+            ]
+          }
+        ]
       },
       {
         "date": 8,
