@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2025-10-07T08:58:14.553250",
+    "generated": "2025-10-07T09:51:49.410289",
     "version": "1.0"
   },
   "schoolInfo": {
@@ -22,8 +22,8 @@
     "date": "Tuesday, October 7",
     "year": 2025,
     "weather": {
-      "temp": "15\u00b0C",
-      "description": "Pleasant day - normal layers should be fine. Light jacket optional."
+      "temp": "17\u00b0C",
+      "description": "Slightly chilly - bring a jacket."
     },
     "children": {
       "Leo": {
@@ -46,7 +46,7 @@
     "date": "Wednesday, October 8",
     "weather": {
       "temp": "18\u00b0C",
-      "description": "Slightly chilly - bring a jacket."
+      "description": "Warm day expected - light clothing appropriate."
     },
     "children": {
       "Leo": {
@@ -466,99 +466,7 @@
       }
     ]
   },
-  "notices": [
-    {
-      "id": "science-museum-trip",
-      "title": "Science Museum Trip Permission",
-      "priority": "high",
-      "deadline": "October 10th",
-      "description": "Permission slip needed for Science Museum trip on October 15th.",
-      "children": [
-        "Leo"
-      ],
-      "actionButton": {
-        "text": "Complete Form",
-        "url": "https://forms.hampsteadhill.school/permission"
-      }
-    },
-    {
-      "id": "parent-consultation-booking",
-      "title": "Parent Consultation Booking",
-      "priority": "high",
-      "deadline": "October 5th",
-      "description": "Book your 15-minute consultation slot with your child's teacher for October 10th or 11th.",
-      "children": [
-        "Leo",
-        "Novah"
-      ],
-      "actionButton": {
-        "text": "Book Now",
-        "url": "https://booking.hampsteadhill.school/consultations"
-      }
-    },
-    {
-      "id": "half-term-reminder",
-      "title": "Half Term Holiday",
-      "priority": "medium",
-      "deadline": "October 20th",
-      "description": "School will be closed for half term from October 20th to October 24th. School resumes on October 27th.",
-      "children": [
-        "Leo",
-        "Novah"
-      ]
-    },
-    {
-      "id": "swimming-kit-reminder",
-      "title": "Swimming Kit Reminder",
-      "priority": "medium",
-      "deadline": "October 7th",
-      "description": "Remember to bring swimming kit every Monday: swimsuit, towel, and swimming cap.",
-      "children": [
-        "Leo"
-      ]
-    },
-    {
-      "id": "school-closure",
-      "title": "School Closed - Staff Training Day",
-      "priority": "high",
-      "deadline": "October 17th",
-      "description": "School will be closed on Friday, October 17th for staff training.",
-      "children": [
-        "Leo",
-        "Novah"
-      ]
-    },
-    {
-      "id": "class-assembly",
-      "title": "Poplar Class Assembly",
-      "priority": "high",
-      "deadline": "October 3rd",
-      "description": "Poplar Class Assembly on Friday, October 3rd from 9:00am to 9:30am. Parents welcome to attend.",
-      "children": [
-        "Leo"
-      ]
-    },
-    {
-      "id": "pe-days",
-      "title": "PE & Zumba Days",
-      "priority": "medium",
-      "deadline": "Ongoing",
-      "description": "PE takes place on Wednesdays and Zumba on Tuesdays. Please ensure your child has appropriate PE kit on these days.",
-      "children": [
-        "Leo"
-      ]
-    },
-    {
-      "id": "forest-school-reschedule",
-      "title": "Forest School Schedule Change",
-      "priority": "medium",
-      "deadline": "Next Week",
-      "description": "Forest School moved to Thursday. Bring outdoor clothing.",
-      "children": [
-        "Novah"
-      ]
-    }
-  ],
+  "notices": [],
   "calendar": {
     "month": 10,
     "year": 2025,
@@ -761,7 +669,7 @@
     ]
   },
   "settings": {
-    "notificationCount": 8,
+    "notificationCount": 0,
     "currentTab": "Today",
     "filterSetting": "All"
   }

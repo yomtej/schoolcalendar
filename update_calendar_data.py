@@ -458,81 +458,17 @@ def get_events():
     return events
 
 def get_notices():
-    """Get all notices."""
-    notices = [
-        {
-            "id": "science-museum-trip",
-            "title": "Science Museum Trip Permission",
-            "priority": "high",
-            "deadline": "October 10th",
-            "description": "Permission slip needed for Science Museum trip on October 15th.",
-            "children": ["Leo"],
-            "actionButton": {
-                "text": "Complete Form",
-                "url": "https://forms.hampsteadhill.school/permission"
-            }
-        },
-        {
-            "id": "parent-consultation-booking",
-            "title": "Parent Consultation Booking",
-            "priority": "high",
-            "deadline": "October 5th",
-            "description": "Book your 15-minute consultation slot with your child's teacher for October 10th or 11th.",
-            "children": ["Leo", "Novah"],
-            "actionButton": {
-                "text": "Book Now",
-                "url": "https://booking.hampsteadhill.school/consultations"
-            }
-        },
-        {
-            "id": "half-term-reminder",
-            "title": "Half Term Holiday",
-            "priority": "medium",
-            "deadline": "October 20th",
-            "description": "School will be closed for half term from October 20th to October 24th. School resumes on October 27th.",
-            "children": ["Leo", "Novah"]
-        },
-        {
-            "id": "swimming-kit-reminder",
-            "title": "Swimming Kit Reminder",
-            "priority": "medium",
-            "deadline": "October 7th",
-            "description": "Remember to bring swimming kit every Monday: swimsuit, towel, and swimming cap.",
-            "children": ["Leo"]
-        },
-        {
-            "id": "school-closure",
-            "title": "School Closed - Staff Training Day",
-            "priority": "high",
-            "deadline": "October 17th",
-            "description": "School will be closed on Friday, October 17th for staff training.",
-            "children": ["Leo", "Novah"]
-        },
-        {
-            "id": "class-assembly",
-            "title": "Poplar Class Assembly",
-            "priority": "high",
-            "deadline": "October 3rd",
-            "description": "Poplar Class Assembly on Friday, October 3rd from 9:00am to 9:30am. Parents welcome to attend.",
-            "children": ["Leo"]
-        },
-        {
-            "id": "pe-days",
-            "title": "PE & Zumba Days",
-            "priority": "medium",
-            "deadline": "Ongoing",
-            "description": "PE takes place on Wednesdays and Zumba on Tuesdays. Please ensure your child has appropriate PE kit on these days.",
-            "children": ["Leo"]
-        },
-        {
-            "id": "forest-school-reschedule",
-            "title": "Forest School Schedule Change",
-            "priority": "medium",
-            "deadline": "Next Week",
-            "description": "Forest School moved to Thursday. Bring outdoor clothing.",
-            "children": ["Novah"]
-        }
-    ]
+    """Get all notices.
+    
+    This function returns notices that should be extracted from actual email communications.
+    Hardcoded notices have been removed to ensure only real information is displayed.
+    
+    In the future, this should be populated by the email scanning system.
+    """
+    notices = []
+    
+    # TODO: Populate notices from email scanning system
+    # For now, return empty array to avoid showing fake/outdated information
     
     return notices
 
