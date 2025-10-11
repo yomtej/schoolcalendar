@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2025-10-10T13:03:17.756885",
+    "generated": "2025-10-11T01:05:05.660070",
     "version": "1.0"
   },
   "schoolInfo": {
@@ -19,10 +19,10 @@
     ]
   },
   "today": {
-    "date": "Friday, October 10",
+    "date": "Saturday, October 11",
     "year": 2025,
     "weather": {
-      "temp": "16\u00b0C",
+      "temp": "15\u00b0C",
       "description": "Warm day expected - light clothing appropriate."
     },
     "children": {
@@ -43,9 +43,9 @@
     }
   },
   "tomorrow": {
-    "date": "Saturday, October 11",
+    "date": "Sunday, October 12",
     "weather": {
-      "temp": "12\u00b0C",
+      "temp": "17\u00b0C",
       "description": "Warm day expected - light clothing appropriate."
     },
     "children": {
