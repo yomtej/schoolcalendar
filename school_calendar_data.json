@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2025-10-13T01:05:39.069015",
+    "generated": "2025-10-13T13:06:59.894379",
     "version": "1.0"
   },
   "schoolInfo": {
@@ -22,8 +22,8 @@
     "date": "Monday, October 13",
     "year": 2025,
     "weather": {
-      "temp": "12\u00b0C",
-      "description": "Cloudy but dry - standard uniform is fine."
+      "temp": "15\u00b0C",
+      "description": "Warm day expected - light clothing appropriate."
     },
     "children": {
       "Leo": {
@@ -45,8 +45,8 @@
   "tomorrow": {
     "date": "Tuesday, October 14",
     "weather": {
-      "temp": "16\u00b0C",
-      "description": "Cloudy but dry - standard uniform is fine."
+      "temp": "12\u00b0C",
+      "description": "Warm day expected - light clothing appropriate."
     },
     "children": {
       "Leo": {
