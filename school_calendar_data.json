@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2025-10-13T13:06:59.894379",
+    "generated": "2025-10-14T01:01:51.424605",
     "version": "1.0"
   },
   "schoolInfo": {
@@ -19,17 +19,17 @@
     ]
   },
   "today": {
-    "date": "Monday, October 13",
+    "date": "Tuesday, October 14",
     "year": 2025,
     "weather": {
-      "temp": "15\u00b0C",
-      "description": "Warm day expected - light clothing appropriate."
+      "temp": "14\u00b0C",
+      "description": "Cloudy but dry - standard uniform is fine."
     },
     "children": {
       "Leo": {
         "year": "Year 2",
-        "uniform": "School Uniform",
-        "uniformType": "Uniform",
+        "uniform": "Sports Wear",
+        "uniformType": "Sports",
         "pickup": "5:30 PM",
         "gate": "West Gate"
       },
@@ -43,10 +43,10 @@
     }
   },
   "tomorrow": {
-    "date": "Tuesday, October 14",
+    "date": "Wednesday, October 15",
     "weather": {
-      "temp": "12\u00b0C",
-      "description": "Warm day expected - light clothing appropriate."
+      "temp": "18\u00b0C",
+      "description": "Pleasant day - normal layers should be fine. Light jacket optional."
     },
     "children": {
       "Leo": {
