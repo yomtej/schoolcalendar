@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2025-10-16T13:03:37.842892",
+    "generated": "2025-10-17T01:02:37.046099",
     "version": "1.0"
   },
   "schoolInfo": {
@@ -19,10 +19,10 @@
     ]
   },
   "today": {
-    "date": "Thursday, October 16",
+    "date": "Friday, October 17",
     "year": 2025,
     "weather": {
-      "temp": "16\u00b0C",
+      "temp": "12\u00b0C",
       "description": "Warm day expected - light clothing appropriate."
     },
     "children": {
@@ -30,23 +30,23 @@
         "year": "Year 2",
         "uniform": "School Uniform",
         "uniformType": "Uniform",
-        "pickup": "5:30 PM",
+        "pickup": "3:40 PM",
         "gate": "West Gate"
       },
       "Novah": {
         "year": "Early Years",
-        "uniform": "Forest School Kit",
-        "uniformType": "Forest",
+        "uniform": "School Uniform",
+        "uniformType": "Uniform",
         "pickup": "3:45 PM",
         "gate": "Meadow Gate"
       }
     }
   },
   "tomorrow": {
-    "date": "Friday, October 17",
+    "date": "Saturday, October 18",
     "weather": {
-      "temp": "13\u00b0C",
-      "description": "Warm day expected - light clothing appropriate."
+      "temp": "15\u00b0C",
+      "description": "Slightly chilly - bring a jacket."
     },
     "children": {
       "Leo": {
