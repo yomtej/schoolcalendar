@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2025-10-17T01:02:37.046099",
+    "generated": "2025-10-17T13:05:34.401401",
     "version": "1.0"
   },
   "schoolInfo": {
@@ -22,7 +22,7 @@
     "date": "Friday, October 17",
     "year": 2025,
     "weather": {
-      "temp": "12\u00b0C",
+      "temp": "13\u00b0C",
       "description": "Warm day expected - light clothing appropriate."
     },
     "children": {
@@ -45,7 +45,7 @@
   "tomorrow": {
     "date": "Saturday, October 18",
     "weather": {
-      "temp": "15\u00b0C",
+      "temp": "17\u00b0C",
       "description": "Slightly chilly - bring a jacket."
     },
     "children": {
