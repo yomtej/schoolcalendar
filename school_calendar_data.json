@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2025-10-17T13:05:34.401401",
+    "generated": "2025-10-18T01:04:34.782085",
     "version": "1.0"
   },
   "schoolInfo": {
@@ -19,11 +19,11 @@
     ]
   },
   "today": {
-    "date": "Friday, October 17",
+    "date": "Saturday, October 18",
     "year": 2025,
     "weather": {
-      "temp": "13\u00b0C",
-      "description": "Warm day expected - light clothing appropriate."
+      "temp": "17\u00b0C",
+      "description": "Rain expected - bring raincoat and umbrella."
     },
     "children": {
       "Leo": {
@@ -43,10 +43,10 @@
     }
   },
   "tomorrow": {
-    "date": "Saturday, October 18",
+    "date": "Sunday, October 19",
     "weather": {
-      "temp": "17\u00b0C",
-      "description": "Slightly chilly - bring a jacket."
+      "temp": "12\u00b0C",
+      "description": "Warm day expected - light clothing appropriate."
     },
     "children": {
       "Leo": {
