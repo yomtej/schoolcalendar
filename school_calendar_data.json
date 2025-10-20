@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2025-10-20T01:02:29.784211",
+    "generated": "2025-10-20T13:05:28.975942",
     "version": "1.0"
   },
   "schoolInfo": {
@@ -22,8 +22,8 @@
     "date": "Monday, October 20",
     "year": 2025,
     "weather": {
-      "temp": "16\u00b0C",
-      "description": "Pleasant day - normal layers should be fine. Light jacket optional."
+      "temp": "14\u00b0C",
+      "description": "Warm day expected - light clothing appropriate."
     },
     "children": {
       "Leo": {
@@ -46,7 +46,7 @@
     "date": "Tuesday, October 21",
     "weather": {
       "temp": "13\u00b0C",
-      "description": "Pleasant day - normal layers should be fine. Light jacket optional."
+      "description": "Slightly chilly - bring a jacket."
     },
     "children": {
       "Leo": {
