@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2025-10-23T01:03:58.301813",
+    "generated": "2025-10-23T13:05:23.764870",
     "version": "1.0"
   },
   "schoolInfo": {
@@ -22,8 +22,8 @@
     "date": "Thursday, October 23",
     "year": 2025,
     "weather": {
-      "temp": "12\u00b0C",
-      "description": "Rain expected - bring raincoat and umbrella."
+      "temp": "18\u00b0C",
+      "description": "Cloudy but dry - standard uniform is fine."
     },
     "children": {
       "Leo": {
@@ -45,8 +45,8 @@
   "tomorrow": {
     "date": "Friday, October 24",
     "weather": {
-      "temp": "14\u00b0C",
-      "description": "Cloudy but dry - standard uniform is fine."
+      "temp": "15\u00b0C",
+      "description": "Pleasant day - normal layers should be fine. Light jacket optional."
     },
     "children": {
       "Leo": {
