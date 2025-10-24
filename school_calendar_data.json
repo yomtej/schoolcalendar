@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2025-10-24T01:04:57.430688",
+    "generated": "2025-10-24T13:03:48.882849",
     "version": "1.0"
   },
   "schoolInfo": {
@@ -45,7 +45,7 @@
   "tomorrow": {
     "date": "Saturday, October 25",
     "weather": {
-      "temp": "12\u00b0C",
+      "temp": "18\u00b0C",
       "description": "Rain expected - bring raincoat and umbrella."
     },
     "children": {
