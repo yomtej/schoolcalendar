@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2025-10-25T13:03:42.442536",
+    "generated": "2025-10-26T02:06:54.122553",
     "version": "1.0"
   },
   "schoolInfo": {
@@ -19,11 +19,11 @@
     ]
   },
   "today": {
-    "date": "Saturday, October 25",
+    "date": "Sunday, October 26",
     "year": 2025,
     "weather": {
-      "temp": "18\u00b0C",
-      "description": "Slightly chilly - bring a jacket."
+      "temp": "14\u00b0C",
+      "description": "Pleasant day - normal layers should be fine. Light jacket optional."
     },
     "children": {
       "Leo": {
@@ -43,17 +43,17 @@
     }
   },
   "tomorrow": {
-    "date": "Sunday, October 26",
+    "date": "Monday, October 27",
     "weather": {
-      "temp": "17\u00b0C",
-      "description": "Slightly chilly - bring a jacket."
+      "temp": "15\u00b0C",
+      "description": "Cloudy but dry - standard uniform is fine."
     },
     "children": {
       "Leo": {
         "year": "Year 2",
         "uniform": "School Uniform",
         "uniformType": "Uniform",
-        "pickup": "3:40 PM",
+        "pickup": "5:30 PM",
         "gate": "West Gate"
       },
       "Novah": {
