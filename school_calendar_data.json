@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2025-10-30T02:02:23.841023",
+    "generated": "2025-10-30T14:06:34.704932",
     "version": "1.0"
   },
   "schoolInfo": {
@@ -45,8 +45,8 @@
   "tomorrow": {
     "date": "Friday, October 31",
     "weather": {
-      "temp": "18\u00b0C",
-      "description": "Cloudy but dry - standard uniform is fine."
+      "temp": "14\u00b0C",
+      "description": "Slightly chilly - bring a jacket."
     },
     "children": {
       "Leo": {
