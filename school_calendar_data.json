@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2025-10-31T14:03:47.817369",
+    "generated": "2025-11-01T02:03:36.331565",
     "version": "1.0"
   },
   "schoolInfo": {
@@ -19,11 +19,11 @@
     ]
   },
   "today": {
-    "date": "Friday, October 31",
+    "date": "Saturday, November 1",
     "year": 2025,
     "weather": {
-      "temp": "12\u00b0C",
-      "description": "Cloudy but dry - standard uniform is fine."
+      "temp": "15\u00b0C",
+      "description": "Pleasant day - normal layers should be fine. Light jacket optional."
     },
     "children": {
       "Leo": {
@@ -43,10 +43,10 @@
     }
   },
   "tomorrow": {
-    "date": "Saturday, November 1",
+    "date": "Sunday, November 2",
     "weather": {
-      "temp": "16\u00b0C",
-      "description": "Slightly chilly - bring a jacket."
+      "temp": "15\u00b0C",
+      "description": "Pleasant day - normal layers should be fine. Light jacket optional."
     },
     "children": {
       "Leo": {
@@ -409,7 +409,7 @@
     }
   ],
   "calendar": {
-    "month": 10,
+    "month": 11,
     "year": 2025,
     "days": [
       {
@@ -422,26 +422,11 @@
       },
       {
         "date": 3,
-        "events": [
-          {
-            "title": "Poplar Class Assembly",
-            "children": [
-              "Leo"
-            ]
-          }
-        ]
+        "events": []
       },
       {
         "date": 4,
-        "events": [
-          {
-            "title": "HHS 75th Birthday",
-            "children": [
-              "Leo",
-              "Novah"
-            ]
-          }
-        ]
+        "events": []
       },
       {
         "date": 5,
@@ -453,14 +438,7 @@
       },
       {
         "date": 7,
-        "events": [
-          {
-            "title": "Swimming Lessons Begin",
-            "children": [
-              "Leo"
-            ]
-          }
-        ]
+        "events": []
       },
       {
         "date": 8,
@@ -472,34 +450,11 @@
       },
       {
         "date": 10,
-        "events": [
-          {
-            "title": "Red, White and Blue Day",
-            "children": [
-              "Leo",
-              "Novah"
-            ]
-          },
-          {
-            "title": "Parent Consultations Day 1",
-            "children": [
-              "Leo",
-              "Novah"
-            ]
-          }
-        ]
+        "events": []
       },
       {
         "date": 11,
-        "events": [
-          {
-            "title": "Parent Consultations Day 2",
-            "children": [
-              "Leo",
-              "Novah"
-            ]
-          }
-        ]
+        "events": []
       },
       {
         "date": 12,
@@ -515,14 +470,7 @@
       },
       {
         "date": 15,
-        "events": [
-          {
-            "title": "Science Museum Trip",
-            "children": [
-              "Leo"
-            ]
-          }
-        ]
+        "events": []
       },
       {
         "date": 16,
@@ -530,15 +478,7 @@
       },
       {
         "date": 17,
-        "events": [
-          {
-            "title": "PD Day - School Closed",
-            "children": [
-              "Leo",
-              "Novah"
-            ]
-          }
-        ]
+        "events": []
       },
       {
         "date": 18,
@@ -550,15 +490,7 @@
       },
       {
         "date": 20,
-        "events": [
-          {
-            "title": "Half Term Begins",
-            "children": [
-              "Leo",
-              "Novah"
-            ]
-          }
-        ]
+        "events": []
       },
       {
         "date": 21,
@@ -574,15 +506,7 @@
       },
       {
         "date": 24,
-        "events": [
-          {
-            "title": "Half Term Ends",
-            "children": [
-              "Leo",
-              "Novah"
-            ]
-          }
-        ]
+        "events": []
       },
       {
         "date": 25,
@@ -607,18 +531,6 @@
       {
         "date": 30,
         "events": []
-      },
-      {
-        "date": 31,
-        "events": [
-          {
-            "title": "Black History Month Exhibition",
-            "children": [
-              "Leo",
-              "Novah"
-            ]
-          }
-        ]
       }
     ]
   },
