@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2025-11-02T13:05:02.005424",
+    "generated": "2025-11-03T01:02:36.008515",
     "version": "1.0"
   },
   "schoolInfo": {
@@ -19,18 +19,18 @@
     ]
   },
   "today": {
-    "date": "Sunday, November 2",
+    "date": "Monday, November 3",
     "year": 2025,
     "weather": {
-      "temp": "17\u00b0C",
-      "description": "Warm day expected - light clothing appropriate."
+      "temp": "16\u00b0C",
+      "description": "Rain expected - bring raincoat and umbrella."
     },
     "children": {
       "Leo": {
         "year": "Year 2",
         "uniform": "School Uniform",
         "uniformType": "Uniform",
-        "pickup": "3:40 PM",
+        "pickup": "5:30 PM",
         "gate": "West Gate"
       },
       "Novah": {
@@ -43,16 +43,16 @@
     }
   },
   "tomorrow": {
-    "date": "Monday, November 3",
+    "date": "Tuesday, November 4",
     "weather": {
-      "temp": "14\u00b0C",
-      "description": "Warm day expected - light clothing appropriate."
+      "temp": "17\u00b0C",
+      "description": "Slightly chilly - bring a jacket."
     },
     "children": {
       "Leo": {
         "year": "Year 2",
-        "uniform": "School Uniform",
-        "uniformType": "Uniform",
+        "uniform": "Sports Wear",
+        "uniformType": "Sports",
         "pickup": "5:30 PM",
         "gate": "West Gate"
       },
