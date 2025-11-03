@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2025-11-03T01:02:36.008515",
+    "generated": "2025-11-03T13:04:23.411679",
     "version": "1.0"
   },
   "schoolInfo": {
@@ -22,8 +22,8 @@
     "date": "Monday, November 3",
     "year": 2025,
     "weather": {
-      "temp": "16\u00b0C",
-      "description": "Rain expected - bring raincoat and umbrella."
+      "temp": "15\u00b0C",
+      "description": "Cloudy but dry - standard uniform is fine."
     },
     "children": {
       "Leo": {
@@ -45,8 +45,8 @@
   "tomorrow": {
     "date": "Tuesday, November 4",
     "weather": {
-      "temp": "17\u00b0C",
-      "description": "Slightly chilly - bring a jacket."
+      "temp": "18\u00b0C",
+      "description": "Cloudy but dry - standard uniform is fine."
     },
     "children": {
       "Leo": {
