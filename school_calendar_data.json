@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2025-11-03T13:04:23.411679",
+    "generated": "2025-11-04T01:05:06.127678",
     "version": "1.0"
   },
   "schoolInfo": {
@@ -19,17 +19,17 @@
     ]
   },
   "today": {
-    "date": "Monday, November 3",
+    "date": "Tuesday, November 4",
     "year": 2025,
     "weather": {
-      "temp": "15\u00b0C",
+      "temp": "13\u00b0C",
       "description": "Cloudy but dry - standard uniform is fine."
     },
     "children": {
       "Leo": {
         "year": "Year 2",
-        "uniform": "School Uniform",
-        "uniformType": "Uniform",
+        "uniform": "Sports Wear",
+        "uniformType": "Sports",
         "pickup": "5:30 PM",
         "gate": "West Gate"
       },
@@ -43,10 +43,10 @@
     }
   },
   "tomorrow": {
-    "date": "Tuesday, November 4",
+    "date": "Wednesday, November 5",
     "weather": {
-      "temp": "18\u00b0C",
-      "description": "Cloudy but dry - standard uniform is fine."
+      "temp": "14\u00b0C",
+      "description": "Rain expected - bring raincoat and umbrella."
     },
     "children": {
       "Leo": {
