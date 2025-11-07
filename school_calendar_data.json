@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2025-11-07T01:06:20.519914",
+    "generated": "2025-11-07T13:04:04.267608",
     "version": "1.0"
   },
   "schoolInfo": {
@@ -22,7 +22,7 @@
     "date": "Friday, November 7",
     "year": 2025,
     "weather": {
-      "temp": "13\u00b0C",
+      "temp": "17\u00b0C",
       "description": "Warm day expected - light clothing appropriate."
     },
     "children": {
@@ -45,7 +45,7 @@
   "tomorrow": {
     "date": "Saturday, November 8",
     "weather": {
-      "temp": "16\u00b0C",
+      "temp": "17\u00b0C",
       "description": "Pleasant day - normal layers should be fine. Light jacket optional."
     },
     "children": {
