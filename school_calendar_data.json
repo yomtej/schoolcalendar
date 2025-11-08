@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2025-11-07T13:04:04.267608",
+    "generated": "2025-11-08T01:02:35.210607",
     "version": "1.0"
   },
   "schoolInfo": {
@@ -19,11 +19,11 @@
     ]
   },
   "today": {
-    "date": "Friday, November 7",
+    "date": "Saturday, November 8",
     "year": 2025,
     "weather": {
-      "temp": "17\u00b0C",
-      "description": "Warm day expected - light clothing appropriate."
+      "temp": "15\u00b0C",
+      "description": "Pleasant day - normal layers should be fine. Light jacket optional."
     },
     "children": {
       "Leo": {
@@ -43,10 +43,10 @@
     }
   },
   "tomorrow": {
-    "date": "Saturday, November 8",
+    "date": "Sunday, November 9",
     "weather": {
-      "temp": "17\u00b0C",
-      "description": "Pleasant day - normal layers should be fine. Light jacket optional."
+      "temp": "13\u00b0C",
+      "description": "Warm day expected - light clothing appropriate."
     },
     "children": {
       "Leo": {
